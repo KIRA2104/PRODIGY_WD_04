@@ -18,7 +18,7 @@ const Hero = () => {
             <div className="relative">
               <div className="w-80 h-80 rounded-full overflow-hidden border-8 border-white shadow-2xl">
                 <img 
-                  src="public/WhatsApp Image 2025-07-04 at 12.29.07.jpeg" 
+                  src="/WhatsApp Image 2025-07-04 at 12.29.07.jpeg" 
                   alt="Professional headshot"
                   className="w-full h-full object-cover"
                 />
@@ -32,7 +32,7 @@ const Hero = () => {
             <h1 className="text-5xl md:text-7xl font-bold text-slate-800 mb-6">
               Hi, I'm{' '}
               <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                Rudra Singh
+                Your Name
               </span>
             </h1>
             <p className="text-xl md:text-2xl text-slate-600 mb-8 max-w-2xl">
